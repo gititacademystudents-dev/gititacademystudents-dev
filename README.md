@@ -1,6 +1,15 @@
-# 💫 GIT IT Academy, Hubli
-# <br>🤖 Empowering Engineers With Cloud • DevOps • AI • Automation<br>
-<br>🚀Linux Administration & Shell Scripting<br>🚀Git & GitHub Version Control<br>🚀CI/CD Pipeline with Jenkins<br>🚀Docker & Containerization<br>🚀Kubernetes & Container Orchestration<br>🚀Terraform – Infrastructure as Code<br>🚀AWS Cloud & Deployment<br>🚀Ansible – Configuration Management<br>🚀Prometheus & Grafana Monitoring<br>🚀Python for DevOps Automation<br>🚀AI Tools for DevOps Productivity & Automation<br>🚀Real-Time Projects & Practical Labs<br>🚀Resume Building & Interview Preparation<br>🚀Placement Assistance
+<p align="center">
+<h2 align="center">🤖 GIT IT Academy 🚀</h2>
+</p>
+
+<h2 align="center">🤖 Empowering Engineers With Cloud • DevOps • AI • Automation 🚀</h2>
+<h3 align="center">🎯 Mission: Every Student Get Placed With 15+ LPA — Learn | Build | Get Hired</h3>
+
+## 🧠 **What Makes Us Different**
+| Real-World Skills | AI-Enhanced Training | Real Projects | Portfolio Building | Interview & Placement Help |
+|------------------|---------------------|----------------|--------------------|----------------------------|
+| Hands-on Labs | AI tools + automation | Real use-cases | GitHub + LinkedIn branding | Mock interview support |
+---
 
 
 ## 🌐 Socials:
