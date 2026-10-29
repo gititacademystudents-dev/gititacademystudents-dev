@@ -1,5 +1,5 @@
 <p align="center">
-<h2 align="center">🤖 GIT IT Academy 🚀</h2>
+<h2 align="center">🤖 GIT IT Academy, Karnataka, Hubli🚀</h2>
 </p>
 
 <h2 align="center">🤖 Empowering Engineers With Cloud • DevOps • AI • Automation 🚀</h2>
